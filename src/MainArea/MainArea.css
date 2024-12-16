@@ -1,0 +1,18 @@
+.Main{
+    display: flex;
+    justify-content: space-between;
+}
+.Rside{
+    height: 50rem;
+    width: 21%;
+    background-color: blue;
+    left: 0;
+    flex-wrap: wrap;
+}
+.side{
+    height: 50rem;
+    width: 21%;
+    background-color: blue;
+    left: 0;
+    flex-wrap: wrap;
+}

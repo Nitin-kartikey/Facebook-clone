@@ -1,0 +1,28 @@
+html{
+    font-size: 100%;
+    box-sizing: border-box;
+}
+*{
+    margin: 0;
+}
+body{
+    font: 1.6rem helvetica;
+    background-color: #f0f2f5;
+    margin:0%;
+}
+.HomePage{
+    display: grid;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    position:sticky;
+    top: 0;
+    width: 100%;
+    height: 4rem;
+    border: .1 rem black;
+    margin-right: 20px;
+    
+}
